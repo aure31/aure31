@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a java developer passoniate by minecraft and all 
+I'm a java developer passoniate by minecraft and all of this word
 <!--
 **aure31/aure31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
